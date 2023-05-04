@@ -1,5 +1,5 @@
 # STT Softwares
-STT Softwares Collection Based On Silent Installers Of The Latest Popular Softwares.<br>
+**STT Softwares** Collection Based On Silent Installers Of The Latest Popular Softwares.<br>
 Download The First Version Of STT Softwares From Telegram : [STT Softwares](https://t.me/shimultechtips_files/73)<br>
 
 This Software Collection Has These Installers :<br>
