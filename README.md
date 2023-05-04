@@ -1,7 +1,6 @@
 # STT Softwares
 STT Softwares Collection Based On Silent Installers Of The Latest Popular Softwares.//
 Download The First Version Of STT Softwares From Telegram : [STT Softwares](https://t.me/shimultechtips_files/73)\
-
 /This Software Collection Has These Installers :
 /Activators:
 /---01. Microsoft Activation Script.
