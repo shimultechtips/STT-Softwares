@@ -12,6 +12,8 @@ This Software Collection Has These Installers :<br>
 **Graphics:**<br>
 ---01. Adobe Photoshop CC 2019 Preactivated.<br>
 ---02. Adobe Illustrator CC 2019 Preactivated.<br>
+---03. Adobe Photoshop CS.<br>
+---04. Adobe Illustrator CS.<br>
 **Internet:**<br>
 ---01. AnyDesk.<br>
 ---02. Google Chrome.<br>
